@@ -1,0 +1,1 @@
+print("We are not learning without punishment")
